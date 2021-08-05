@@ -87,5 +87,5 @@ const DownArrow = styled.img `
 `
 
 const Buttons = styled.div `
-
+    
 `
